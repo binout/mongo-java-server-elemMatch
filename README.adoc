@@ -1,0 +1,11 @@
+= Code for issue 51 of mongo-java-server
+
+== Reference
+
+https://github.com/bwaldvogel/mongo-java-server/issues/51
+
+== Description
+
+`elemMatch` is not supported in query by `mongo-java-server`. 😭
+
+Fongo supports it 😉  (cf `FongoTest`)
